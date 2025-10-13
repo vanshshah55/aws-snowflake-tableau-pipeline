@@ -1,4 +1,4 @@
-# End-to-End Cloud Analytics Pipeline: AWS + Snowflake + Tableau
+# Cloud Analytics Pipeline: AWS + Snowflake + Tableau
 
 This repository showcases a complete, end-to-end data pipeline project. It demonstrates the process of ingesting raw data from a cloud data lake (AWS S3), loading it into a cloud data warehouse (Snowflake) for transformation, and visualizing the resulting insights in an interactive business intelligence dashboard (Tableau).
 
@@ -7,6 +7,14 @@ This repository showcases a complete, end-to-end data pipeline project. It demon
 ## 🚀 Project Objective
 
 The primary goal of this project involved building a scalable and automated ELT (Extract, Load, Transform) pipeline using a modern data stack, transforming raw data into actionable business intelligence.
+
+---
+
+## 🏗️ Architecture
+
+The architecture illustrates the flow of data from the initial raw files in S3 to the final interactive dashboard in Tableau.
+
+<img width="512" height="207" alt="Gemini_Generated_Image_5kh7t65kh7t65kh7" src="https://github.com/user-attachments/assets/e25f8b21-9af3-49bc-88f1-3588aa5b247e" />
 
 ---
 
@@ -21,6 +29,7 @@ The primary goal of this project involved building a scalable and automated ELT 
 ---
 
 #### 📊 Dashboard Preview:
+<img width="1606" height="1008" alt="image" src="https://github.com/user-attachments/assets/6ed2d01f-ea2e-47cd-98af-b5eca041438e" />
 
 ---
 
