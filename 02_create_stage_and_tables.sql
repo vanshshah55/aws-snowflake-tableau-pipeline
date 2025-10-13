@@ -18,7 +18,7 @@ select * from tableau_dataset;
 //drop database tableau;
 
 create stage tableau.tableau_Data.tableau_stage
-url = 's3://vansh-tableau-snowflake-project'
+url = '' // your s3 file location
 storage_integration = Tableau_Integration_project
 
 //desc stage s1
