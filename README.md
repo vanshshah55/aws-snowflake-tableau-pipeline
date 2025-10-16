@@ -28,7 +28,10 @@ The architecture illustrates the flow of data from the initial raw files in S3 t
 
 ---
 
-#### 📊 Dashboard Preview:
+#### 📊 Preview:
+
+<img width="1280" height="657" alt="image" src="https://github.com/user-attachments/assets/3b28b1fd-4500-402a-85a5-20793ffc4dc2" />
+
 <img width="1606" height="1008" alt="image" src="https://github.com/user-attachments/assets/6ed2d01f-ea2e-47cd-98af-b5eca041438e" />
 
 ---
